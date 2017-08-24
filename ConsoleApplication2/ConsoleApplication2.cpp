@@ -6,6 +6,7 @@
 
 int main()
 {
+	asdfasdf
     return 0;
 }
 
