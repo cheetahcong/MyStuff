@@ -6,7 +6,7 @@
 
 int main()
 {
-	asdfasdf
+	i love you
     return 0;
 }
 
